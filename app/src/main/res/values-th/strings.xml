@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="eaten">ทานไป</string>
+    <string name="burned">เผาผลาญ</string>
+    <string name="Kcalleft">ยังคงเหลือ</string>
+    <string name="title">Daily Calories</string>
+    <string name="Meals">มื้ออาหาร</string>
+    <string name="search">ค้นหา</string>
+    <string name="titlerandom">สุ่มเมนู</string>
+    <string name="kcal">Kcal</string>
+    <string name="result">มื้ออาหาร:</string>
+    <string name="outputeaten"></string>
+    <string name="titleadd">เพิ่มมื้ออาหาร</string>
+    <string name="lessthan">น้อยกว่า</string>
+    <string name="kcalrequired">" "</string>
+    <string name="cal">"kcal"</string>
+    <string name="plsshake">"เขย่ามือถือของคุณ!"</string>
+    <string name="titleuser">ผู้ใช้</string>
+    <string name="sex">เพศกำเนิด</string>
+    <string name="male">ชาย</string>
+    <string name="female">หญิง</string>
+    <string name="age">อายุ</string>
+    <string name="weight">น้ำหนัก (กก.)</string>
+    <string name="height">ส่วนสูง (ซม.)</string>
+    <string name="bmr">BMR</string>
+    <string name="ageinput">" "</string>
+    <string name="weightinput">" "</string>
+    <string name="heightinput">" "</string>
+    <string name="bmrinput">" "</string>
+</resources>

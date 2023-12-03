@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FinalProject</string>
+    <string name="eaten">EATEN</string>
+    <string name="burned">BURNED</string>
+    <string name="Kcalleft">KCAL LEFT</string>
+    <string name="title">Daily Calories</string>
+    <string name="Meals">Meals</string>
+    <string name="search">Search</string>
+    <string name="titlerandom">Random</string>
+    <string name="kcal">Kcal</string>
+    <string name="result">Result:</string>
+    <string name="outputeaten"></string>
+    <string name="titleadd">Add Meals</string>
+    <string name="lessthan">Less Than</string>
+    <string name="kcalrequired">" "</string>
+    <string name="cal">"kcal"</string>
+    <string name="plsshake">"Shake Your Phone!"</string>
+    <string name="titleuser">User</string>
+    <string name="sex">Biological Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmr">BMR</string>
+    <string name="ageinput">" "</string>
+    <string name="weightinput">" "</string>
+    <string name="heightinput">" "</string>
+    <string name="bmrinput">" "</string>
+    <string name="titledialog" tools:ignore="MissingTranslation">Member</string>
+    <string name="numberone" tools:ignore="MissingTranslation">Pimpika Dejprapatsorn 6309681218</string>
+    <string name="numbertwo" tools:ignore="MissingTranslation">Natchaya Pawapongsupat 6309681457</string>
+    <string name="numberthree" tools:ignore="MissingTranslation">Fahsai Pethsai 6309681580</string>
+</resources>
